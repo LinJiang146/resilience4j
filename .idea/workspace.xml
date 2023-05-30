@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d85090e3-83f4-45aa-a140-e8899920c289" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/controller/CartController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/controller/CustomerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/feign/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/loadbalanced/CustomlLoadBalancedConffiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/java/org/example/loadbalanced/CustomlLoadBalancedConffiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12000/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/controller/CartController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/feign/UserFeignService.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/feign/UserFeignService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/loadbalanced/CustomlLoadBalancedConffiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/loadbalanced/CustomlLoadBalancedConffiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_customer_12001/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_provider_11000/src/main/java/org/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_provider_11000/src/main/java/org/example/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka/service_provider_11001/src/main/java/org/example/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/eureka/service_provider_11001/src/main/java/org/example/controller/UserController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QTBZ8TRG0tj16orJAGsna4wcYf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eureka/service_customer_12001/src/main/java/org/example/controller" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wei\Desktop\实验\软件服务\实验3\test2\eureka\service_customer_12001\src\main\java\org\example\controller" />
+      <recent name="C:\Users\wei\Desktop\实验\软件服务\实验3\test2\eureka\service_customer_12001\src\main\resources" />
+      <recent name="C:\Users\wei\Desktop\实验\软件服务\实验3\test2\eureka\service_customer_12000\src\main\resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d85090e3-83f4-45aa-a140-e8899920c289" name="Changes" comment="" />
+      <created>1685367744746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685367744746</updated>
+      <workItem from="1685367745870" duration="9000" />
+      <workItem from="1685428819312" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/eureka" />
+    </ignored-roots>
+  </component>
+</project>
